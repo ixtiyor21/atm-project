@@ -1,0 +1,29 @@
+[
+  {
+    "pan": "8600552087581904",
+    "password": "1111",
+    "type": "UZCARD",
+    "status": "ACTIVE",
+    "balance": 700000,
+    "bankId": "165137499323900mdUo3Po6fpoDzdUvpWqK",
+    "holderId": "61822735138000wsNJTS0PxWLxQFRf3Mp6",
+    "smsPhoneNumber": "+998909876543",
+    "curType": "sum",
+    "id": "61866713903800WLTvvGtDSI4mRas11hXL",
+    "createdAt": "Dec 14, 2021, 8:15:07 AM",
+    "deleted": 0
+  },
+  {
+    "pan": "4735343814874950",
+    "password": "1111",
+    "type": "VISA",
+    "status": "ACTIVE",
+    "balance": 172,
+    "bankId": "165137499323900mdUo3Po6fpoDzdUvpWqK",
+    "holderId": "61908152009500jBdrCfWO6KLKflBcB9iA",
+    "curType": "$",
+    "id": "619512474286006GDFFczDLHCGxRstFlxG",
+    "createdAt": "Dec 14, 2021, 8:16:32 AM",
+    "deleted": 0
+  }
+]

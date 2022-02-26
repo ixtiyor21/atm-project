@@ -1,0 +1,20 @@
+[
+  {
+    "name": "branch1",
+    "status": "ACTIVE",
+    "bankId": "165137499323900mdUo3Po6fpoDzdUvpWqK",
+    "id": "61471099680200ZWrFGfvfmxDfz8KjiVaX",
+    "createdAt": "Dec 14, 2021, 8:08:32 AM",
+    "createdBy": "13960728412660009IfigCZAVL4occszzqxu",
+    "deleted": 0
+  },
+  {
+    "name": "branch2",
+    "status": "ACTIVE",
+    "bankId": "165137499323900mdUo3Po6fpoDzdUvpWqK",
+    "id": "61483410601300JTuV3wPjDaW1rpsaTu0t",
+    "createdAt": "Dec 14, 2021, 8:08:44 AM",
+    "createdBy": "13960728412660009IfigCZAVL4occszzqxu",
+    "deleted": 0
+  }
+]

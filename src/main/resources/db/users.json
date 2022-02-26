@@ -1,0 +1,98 @@
+[
+  {
+    "username": "super",
+    "password": "123",
+    "role": "SUPER_ADMIN",
+    "status": "NON_ACTIVE",
+    "phoneNumber": "+998904554550",
+    "language": "EN",
+    "id": "13960728412660009IfigCZAVL4occszzqxu",
+    "createdAt": "Dec 10, 2021, 12:01:01 PM",
+    "deleted": 0
+  },
+  {
+    "username": "admin1",
+    "password": "123",
+    "bankId": "165137499323900mdUo3Po6fpoDzdUvpWqK",
+    "role": "ADMIN",
+    "status": "NON_ACTIVE",
+    "phoneNumber": "+998901234567",
+    "language": "EN",
+    "id": "61503916671000Y3cxiEnH2vWVENcQIzwS",
+    "createdAt": "Dec 14, 2021, 8:09:05 AM",
+    "createdBy": "super",
+    "deleted": 0
+  },
+  {
+    "username": "hr1",
+    "password": "123",
+    "branchId": "61471099680200ZWrFGfvfmxDfz8KjiVaX",
+    "role": "HR",
+    "status": "NON_ACTIVE",
+    "phoneNumber": "+998937654321",
+    "language": "EN",
+    "id": "615787761077003KSudpBFI4XEr45khkxw",
+    "createdAt": "Dec 14, 2021, 8:19:31 AM",
+    "createdBy": "admin1",
+    "deleted": 0
+  },
+  {
+    "username": "hr2",
+    "password": "123",
+    "branchId": "61483410601300JTuV3wPjDaW1rpsaTu0t",
+    "role": "HR",
+    "status": "ACTIVE",
+    "phoneNumber": "+998975782345",
+    "language": "EN",
+    "id": "61601485283600OI4IDTuSU4Aj6nCvmd3M",
+    "createdAt": "Dec 14, 2021, 8:19:31 AM",
+    "createdBy": "admin1",
+    "deleted": 0
+  },
+  {
+    "username": "emp1",
+    "password": "123",
+    "branchId": "61471099680200ZWrFGfvfmxDfz8KjiVaX",
+    "role": "EMPLOYEE",
+    "status": "NON_ACTIVE",
+    "phoneNumber": "+998911236782",
+    "language": "EN",
+    "id": "617444773756007GA426ETbPDLLZEEm0qX",
+    "createdAt": "Dec 14, 2021, 8:13:05 AM",
+    "deleted": 0
+  },
+  {
+    "username": "emp2",
+    "password": "123",
+    "branchId": "61471099680200ZWrFGfvfmxDfz8KjiVaX",
+    "role": "EMPLOYEE",
+    "status": "NON_ACTIVE",
+    "phoneNumber": "+998949674534",
+    "language": "EN",
+    "id": "61770371424700t1jMJq6eWsBXr0wA7CQY",
+    "createdAt": "Dec 14, 2021, 8:13:31 AM",
+    "deleted": 0
+  },
+  {
+    "username": "client1",
+    "branchId": "61471099680200ZWrFGfvfmxDfz8KjiVaX",
+    "role": "CLIENT",
+    "status": "NON_ACTIVE",
+    "phoneNumber": "+998977656787",
+    "language": "EN",
+    "id": "61822735138000wsNJTS0PxWLxQFRf3Mp6",
+    "createdAt": "Dec 14, 2021, 8:14:23 AM",
+    "deleted": 0
+  },
+  {
+    "username": "client2",
+    "branchId": "61471099680200ZWrFGfvfmxDfz8KjiVaX",
+    "role": "CLIENT",
+    "status": "NON_ACTIVE",
+    "phoneNumber": "+998945676678",
+    "language": "EN",
+    "id": "61908152009500jBdrCfWO6KLKflBcB9iA",
+    "createdAt": "Dec 14, 2021, 8:15:49 AM",
+    "deleted": 0
+  }
+]

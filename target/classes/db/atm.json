@@ -1,0 +1,82 @@
+[
+  {
+    "bankId": "165137499323900mdUo3Po6fpoDzdUvpWqK",
+    "type": "UZCARD",
+    "name": "atm1",
+    "status": "ACTIVE",
+    "latitude": 14.0,
+    "longitude": 15.0,
+    "cassette1": {
+      "id": "61625025015600zbHZtJhjGIrJnezE2V8a",
+      "currencyValue": 100000,
+      "status": "ACTIVE",
+      "currencyCount": 81,
+      "deleted": 0
+    },
+    "cassette2": {
+      "id": "61625025090700PSkZFdJAAKePia9w1GG0",
+      "currencyValue": 50000,
+      "status": "ACTIVE",
+      "currencyCount": 108,
+      "deleted": 0
+    },
+    "cassette3": {
+      "id": "616250251169005uBew9OvI6TzJxiWNZTz",
+      "currencyValue": 10000,
+      "status": "ACTIVE",
+      "currencyCount": 94,
+      "deleted": 0
+    },
+    "cassette4": {
+      "id": "61625025140800x8TLHT9MouDSu9ZJxnYp",
+      "currencyValue": 5000,
+      "status": "ACTIVE",
+      "currencyCount": 1000,
+      "deleted": 0
+    },
+    "branchId": "61471099680200ZWrFGfvfmxDfz8KjiVaX",
+    "id": "61625027749600azWQIO9nWQl77Md8XeIx",
+    "createdAt": "Dec 14, 2021, 8:11:06 AM",
+    "deleted": 0
+  },
+  {
+    "bankId": "165137499323900mdUo3Po6fpoDzdUvpWqK",
+    "type": "VISA",
+    "name": "atm2",
+    "status": "ACTIVE",
+    "latitude": 15.0,
+    "longitude": 17.0,
+    "cassette1": {
+      "id": "61686649042600NsktoBbPeY7Hq16QH1H0",
+      "currencyValue": 100,
+      "status": "ACTIVE",
+      "currencyCount": 100,
+      "deleted": 0
+    },
+    "cassette2": {
+      "id": "616866491151001TqUaK19Df5gtRllLzC7",
+      "currencyValue": 50,
+      "status": "ACTIVE",
+      "currencyCount": 100,
+      "deleted": 0
+    },
+    "cassette3": {
+      "id": "61686649127900053IPsD8mmULZwfWqbiH",
+      "currencyValue": 10,
+      "status": "ACTIVE",
+      "currencyCount": 98,
+      "deleted": 0
+    },
+    "cassette4": {
+      "id": "61686649138300oeOuBoDWcH8LdvKnEkp4",
+      "currencyValue": 1,
+      "status": "ACTIVE",
+      "currencyCount": 93,
+      "deleted": 0
+    },
+    "branchId": "61483410601300JTuV3wPjDaW1rpsaTu0t",
+    "id": "61686649375200ERwLujKQmA6yNlMLtmv5",
+    "createdAt": "Dec 14, 2021, 8:12:07 AM",
+    "deleted": 0
+  }
+]

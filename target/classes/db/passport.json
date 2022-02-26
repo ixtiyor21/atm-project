@@ -1,0 +1,26 @@
+[
+  {
+    "serial": "AD",
+    "number": "1236783",
+    "gender": "MALE",
+    "firstName": "Abdullayev",
+    "lastName": "Abdulla",
+    "fatherName": "Abdullayevich",
+    "ownerId": "61822735138000wsNJTS0PxWLxQFRf3Mp6",
+    "id": "61853023679500KdSbHeTupGYvNSDnqNYR",
+    "createdAt": "Dec 14, 2021, 8:21:23 AM",
+    "deleted": 0
+  },
+  {
+    "serial": "AA",
+    "number": "7896787",
+    "gender": "FEMALE",
+    "firstName": "Usmonova",
+    "lastName": "Shahlo",
+    "fatherName": "Akmalovna",
+    "ownerId": "61908152009500jBdrCfWO6KLKflBcB9iA",
+    "id": "61943546435900B566mHwnb7eno5eefXAm",
+    "createdAt": "Dec 14, 2021, 8:21:23 AM",
+    "deleted": 0
+  }
+]
